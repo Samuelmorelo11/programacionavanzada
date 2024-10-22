@@ -1,0 +1,21 @@
+﻿ID_Empleado,Nombre,Cédula,Cargo,Salario,Fecha_Ingreso
+E0001,Carlos Pérez,1012345678,Ingeniero de Software,5500000,2021-02-15
+E0002,María Gómez,1019876543,Analista de Datos,4800000,2022-01-06
+E0003,Luis Rodríguez,1023456789,Desarrollador Frontend,5200000,2023-03-10
+E0004,Ana Martínez,1034567890,Desarrollador Backend,5300000,2019-08-05
+E0005,Jorge Sánchez,1045678901,Administrador de Redes,4700000,2020-01-20
+E0006,Paula Ramírez,1056789012,Diseñador UX/UI,5000000,2021-11-30
+E0007,Felipe López,1067890123,Especialista en Ciberseguridad,6000000,2018-09-25
+E0008,Claudia Torres,1078901234,Gerente de Proyectos,7000000,2017-04-17
+E0009,Andrés Castro,1089012345,Arquitecto de Soluciones,7500000,2022-12-12
+E0010,Diana Morales,1090123456,Analista de Soporte,4600000,2023-07-07
+E0011,Camilo Vargas,1101234567,Ingeniero DevOps,6500000,2019-05-21
+E0012,Laura Pineda,1112345678,Tester QA,4900000,2021-10-14
+E0013,Fernando Rojas,1123456789,Consultor Tecnológico,5500000,2020-03-01
+E0014,Valentina Díaz,1134567890,Scrum Master,7200000,2022-09-09
+E0015,Iván Romero,1145678901,Líder Técnico,6800000,2018-11-18
+E0016,Sofía Herrera,1156789012,Administrador de Sistemas,4800000,2020-06-06
+E0017,Julián Navarro,1167890123,Ingeniero de Preventa,5900000,2019-12-27
+E0018,Carolina Mendoza,1178901234,Especialista en Nube,6400000,2021-08-23
+E0019,Sebastián Salinas,1189012345,Desarrollador Móvil,5600000,2023-01-13
+E0020,Natalia Peña,1190123456,Director de TI,8000000,2016-05-05
